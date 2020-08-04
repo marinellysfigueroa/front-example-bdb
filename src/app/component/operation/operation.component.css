@@ -1,0 +1,11 @@
+
+  .btn-success {
+    color: #fff;
+    background-color: #1c5691;
+    border-color: #1c5691;
+}
+.alert-danger {
+    color: #1c5691;
+    background-color: #f2dede;
+    border-color: #1c5691;
+}

@@ -1,5 +1,5 @@
 {
-  "name": "front-fizz-buzz",
+  "name": "front-example-bdb",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -67,12 +67,12 @@
   "main": "karma.conf.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marinellysfigueroa/frontExampleBdb.git"
+    "url": "git+https://github.com/marinellysfigueroa/front-example-bdb.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marinellysfigueroa/frontExampleBdb/issues"
+    "url": "https://github.com/marinellysfigueroa/front-example-bdb/issues"
   },
-  "homepage": "https://github.com/marinellysfigueroa/frontExampleBdb#readme"
+  "homepage": "https://github.com/marinellysfigueroa/front-example-bdb#readme"
 }
